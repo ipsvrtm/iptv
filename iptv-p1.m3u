@@ -13,3 +13,18 @@ rtsp://stream.teracomm.bg/balkanika
 
 #EXTINF:-1 tvg-id="CityTV.bg" tvg-name="City TV" tvg-country="BG" tvg-language="" tvg-logo="" group-title="",City TV [Not 24/7]
 https://tv.city.bg/play/tshls/citytv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/kanal-b.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Kanal B | Ulusal
+https://www.yilmaztv.com/oz/oz.php?channel=kanal-b&stream=2&id=33403&p=d7cc9366a82f952780cc5521cf68485a&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/trt-turk.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",TRT Türk | Ulusal
+https://www.yilmaztv.com/oz/oz.php?channel=trt-turk&stream=2&id=33403&p=d7cc9366a82f952780cc5521cf68485a&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/trt-avaz.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",TRT Avaz | Ulusal
+https://www.yilmaztv.com/oz/oz.php?channel=trt-avaz&stream=2&id=33403&p=d7cc9366a82f952780cc5521cf68485a&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/ucankus-tv.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Uçankuş Tv | Ulusal
+https://www.yilmaztv.com/oz/oz.php?channel=ucankus-tv&stream=2&id=33403&p=d7cc9366a82f952780cc5521cf68485a&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/show-max.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Show Max | Ulusal
+https://www.yilmaztv.com/oz/oz.php?channel=show-max-izle-3&stream=2&id=33403&p=d7cc9366a82f952780cc5521cf68485a&type=m3u8
