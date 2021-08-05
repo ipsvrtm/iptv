@@ -1,7 +1,6 @@
 #EXTM3U $BorpasFileFormat="1"
-#EXTINF:-1  
+#EXTINF:-1 group-title="Ulusal Kanallar" ,Fox Tv | HD1  
 tvg-logo="https://lh3.googleusercontent.com/pw/AM-JKLXjuWbl279dRjBlrvAb39gwhxYg5vxKD9ni1X2uFRZHM-I6yWyKegXIU0-4o83drGFSmhYin1hkBzMdCXLG2AHdGu-L52GvQLFIdusSpF-XkCu1eYmoku-n_zdV3bjw1p0HWfAqTnYnB83cOctOSTyC=s833-no?authuser=0" 
-group-title="Ulusal Kanallar" ,Fox Tv | HD1
 http://xtream-iptvpanel.com:8080/alican01/01alican/97589
 #EXTINF:-1 
 tvg-logo="https://lh3.googleusercontent.com/pw/AM-JKLXjuWbl279dRjBlrvAb39gwhxYg5vxKD9ni1X2uFRZHM-I6yWyKegXIU0-4o83drGFSmhYin1hkBzMdCXLG2AHdGu-L52GvQLFIdusSpF-XkCu1eYmoku-n_zdV3bjw1p0HWfAqTnYnB83cOctOSTyC=s833-no?authuser=0" 
