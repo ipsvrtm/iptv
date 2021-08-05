@@ -29,3 +29,9 @@ https://www.yilmaztv.com/oz/oz.php?channel=ucankus-tv&stream=2&id=33403&p=d7cc93
 
 #EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/show-max.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Show Max | Ulusal
 https://www.yilmaztv.com/oz/oz.php?channel=show-max-izle-3&stream=2&id=33403&p=d7cc9366a82f952780cc5521cf68485a&type=m3u8
+
+Filmler:
+#EXTINF:-1 tvg-logo="https://cdn6.openload.monster/storage/movie/17/17432/cover.jpg?17432" group-title="Movie File",Flight - Uçuş (2012) | FHD | Türkçe Altyazılı
+https://srv87.filmmodu.xyz/tt1907668/1080p.en.m3u8
+#EXTINF:-1 tvg-logo="https://cdn6.openload.monster/storage/movie/17/17432/cover.jpg?17432" group-title="Movie File",Flight - Uçuş (2012) | FHD | Türkçe Dublaj
+https://srv58.filmmodu.xyz/tt1907668/1080p.tr.m3u8
