@@ -38,6 +38,8 @@ http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/38.ts
 
 Filmler
 #EXTINF:-1 group-title="Filmler" tvg-logo="https://tr.web.img4.acsta.net/c_310_420/medias/nmedia/18/91/15/84/20347421.jpg",Flight - Uçuş (2012) | FHD | Türkçe Altyazılı
+#EXTVLCOPT:sub-file="https://www.filmmodu.org/uploads/subs/tt1907668/0.vtt"
+#EXTVLCOPT:subsdec-encoding=UTF-8
 https://srv87.filmmodu.xyz/tt1907668/1080p.en.m3u8
 #EXTINF:-1 group-title="Filmler" tvg-logo="https://tr.web.img4.acsta.net/c_310_420/medias/nmedia/18/91/15/84/20347421.jpg",Flight - Uçuş (2012) | FHD | Türkçe Dublaj
 https://srv58.filmmodu.xyz/tt1907668/1080p.tr.m3u8
