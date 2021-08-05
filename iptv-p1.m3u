@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/show-max.png" 
-group-title="Ulusal Kanallar",Fox Tv | SD
+group-title="Ulusal Kanallar" tvg-name="Fox Tv | SD" tvg-country="TR"
 https://foxtv-live-ad.ercdn.net/foxtv/foxtv_480p.m3u8?e=1628235675&st=QS_se0mszC5K0vB9QrcroA
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/pw/AM-JKLXjuWbl279dRjBlrvAb39gwhxYg5vxKD9ni1X2uFRZHM-I6yWyKegXIU0-4o83drGFSmhYin1hkBzMdCXLG2AHdGu-L52GvQLFIdusSpF-XkCu1eYmoku-n_zdV3bjw1p0HWfAqTnYnB83cOctOSTyC=s833-no?authuser=0" 
-group-title="Ulusal Kanallar",Fox Tv | HD
+group-title="Ulusal Kanallar" tvg-name="Fox Tv | SD" tvg-country="TR"
 http://xtream-iptvpanel.com:8080/alican01/01alican/97589
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/pw/AM-JKLWoH90NhTWDCV_kdD26hERRKZxpgS5FGTli4WLvXLVMMHVW6PIxhdd4q8RGeig5CkgxXDZLoTjGri2WR1xf45F4duqU-7ds7xyvlkDHpoN35XqJyAjXU_3L394Py8A02Z8BcbM0XYlC9qRJxjjpdRhP=w300-h301-no?authuser=0" 
