@@ -49,8 +49,15 @@ https://halktv-live.ercdn.net/halktv/halktv_720p.m3u8%22
   group-title="Haber Kanalları",Halk TV | HD
 http://ata.mobytech.eu:8080/gokselv4/01082020/76953
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/pw/AM-JKLV2mpv_Y9BDYU4dMUnz_XM0tHqxwgdSQ2ztsfuh9iTg1KtnzC9KANUMzBO963H4_p4eP8pnXpPT46DxYorD5Pd-6IQSvMm13d6kxLn1lmy_yhdEAFnfTGHgbzjQ89OlC_yipsm3GXtjddx4AzjuNiQ=w206-h120-no?authuser=0" 
+group-title="Haber Kanalları",KRT TV | HD1
+http://live1.krttv.com.tr/show/krttv_mobil/index.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/pw/AM-JKLV2mpv_Y9BDYU4dMUnz_XM0tHqxwgdSQ2ztsfuh9iTg1KtnzC9KANUMzBO963H4_p4eP8pnXpPT46DxYorD5Pd-6IQSvMm13d6kxLn1lmy_yhdEAFnfTGHgbzjQ89OlC_yipsm3GXtjddx4AzjuNiQ=w206-h120-no?authuser=0" 
+group-title="Haber Kanalları",KRT TV | HD2
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/38.ts
+
 Filmler:
-#EXTINF:-1 tvg-logo="https://cdn6.openload.monster/storage/movie/17/17432/cover.jpg?17432" group-title="Movie File",Flight - Uçuş (2012) | FHD | Türkçe Altyazılı
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/c_310_420/medias/nmedia/18/91/15/84/20347421.jpg" group-title="Movie File",Flight - Uçuş (2012) | FHD | Türkçe Altyazılı
 https://srv87.filmmodu.xyz/tt1907668/1080p.en.m3u8
-#EXTINF:-1 tvg-logo="https://cdn6.openload.monster/storage/movie/17/17432/cover.jpg?17432" group-title="Movie File",Flight - Uçuş (2012) | FHD | Türkçe Dublaj
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/c_310_420/medias/nmedia/18/91/15/84/20347421.jpg" group-title="Movie File",Flight - Uçuş (2012) | FHD | Türkçe Dublaj
 https://srv58.filmmodu.xyz/tt1907668/1080p.tr.m3u8
