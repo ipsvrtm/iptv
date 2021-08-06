@@ -24,6 +24,13 @@ Show Tv
 #EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://lh3.googleusercontent.com/pw/AM-JKLW67f0dccc80vj21oKqIZ2auLCY14LtJwYzHlKMxUQZelnDKF_g-Nzsn52lCzJcrexN05J1XtZU5-mevqvHaaJLzKDJen7ro2BytYB8WpJakv31SXCwrJPcj4q8IIEANRZDMHUka8p5XFZmm2QB8Zqj=s375-no?authuser=1" is-favorite="1",Show Tv | SD
 https://ciner-live.ercdn.net/showtv/showtv_720p.m3u8?e=1628265634&st=y2JtnAX1tz5IGsnArPqo_A&tv=1
 
+DMax
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://lh3.googleusercontent.com/pw/AM-JKLUI4G2a-6ql4V90LC0xMNQZTZVqOVQHiYRz-fgT7UIFE6CWJ5oSB56aaExNhdnXpd_zL7ge4k0DxUR4F541RzYliL6Rlu2HVMDa6WXG0v3YN2EvZ2ZVMg0KD6Rar5PAnZHegac3ZiC-AP8RuimNE__J=w1200-h675-no?authuser=1" is-favorite="1",DMax | SD
+https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?sid=3m70ljtem4xf&app=5a02c599-d17e-4982-9b04-090934d51af7&ce=3
+
+TLC
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://photos.google.com/u/1/share/AF1QipN3t7Z9KOgQUSZLkriVw37k6Zaeb1EB2Sr5-bYovXyCGSzvZ2SfownTptAF3gfk1A/photo/AF1QipP1K4fQf5L9lvJ_eIaKJXngdh76sVhvE3LhPyFf?key=dXlMdWNuaDl1c0FnNXJkeXRzRE9GMlgyTDFPWnF3" is-favorite="1",TLC | SD
+https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?sid=3m70rgy9ptwz&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&ce=3
 
 Halk Tv
 #EXTINF:-1 group-title="Haber Kanalları" tvg-logo="https://lh3.googleusercontent.com/pw/AM-JKLUI674s0jzt89Jf21fHfYbOCUw3yrOCma7zcUgMXNIlGWVMV_8SjiQScY5z_BheGW6AR_iNzLTnnlyUCBK8SbHhEWH7-ViuoP2oMyNXQdc6ANrGSv4KaVSuUaiY4xfFIfPXcAEgd_oaJhBg2kz4EGQ=w368-h150-no?authuser=0",Halk Tv | SD
