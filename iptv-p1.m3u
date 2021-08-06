@@ -44,5 +44,5 @@ https://srv58.filmmodu.xyz/tt1907668/1080p.tr.m3u8
 
 Orman Gezisi
 #EXTINF:-1 group-title="Filmler" tvg-logo="https://tr.web.img4.acsta.net/c_310_420/medias/nmedia/18/91/15/84/20347421.jpg",Orman Gezisi | FHD | Türkçe Altyazılı
-#EXTVLCOPT: sub-file=https://facebcdn.xyz/srt/00007/59ceyszr1582_Turkce.vtt
+#EXTVLCOPT: sub-file="https://facebcdn.xyz/srt/00007/59ceyszr1582_Turkce.vtt"
 https://facebcdn.xyz/hls2/02/00007/,59ceyszr1582_n,.urlset/master.m3u8
