@@ -18,14 +18,14 @@ http://pascaltv.site:8080/F12611/b199b47b/521
 
 Show Tv
 #EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://lh3.googleusercontent.com/pw/AM-JKLW67f0dccc80vj21oKqIZ2auLCY14LtJwYzHlKMxUQZelnDKF_g-Nzsn52lCzJcrexN05J1XtZU5-mevqvHaaJLzKDJen7ro2BytYB8WpJakv31SXCwrJPcj4q8IIEANRZDMHUka8p5XFZmm2QB8Zqj=s375-no?authuser=1" is-favorite="1",Show Tv | SD
-https://ciner-live.ercdn.net/showtv/showtv_720p.m3u8?e=1628265634&st=y2JtnAX1tz5IGsnArPqo_A&tv=1
+http://pascaltv.site:8080/F12611/b199b47b/516
 
 DMax
 #EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://lh3.googleusercontent.com/pw/AM-JKLUI4G2a-6ql4V90LC0xMNQZTZVqOVQHiYRz-fgT7UIFE6CWJ5oSB56aaExNhdnXpd_zL7ge4k0DxUR4F541RzYliL6Rlu2HVMDa6WXG0v3YN2EvZ2ZVMg0KD6Rar5PAnZHegac3ZiC-AP8RuimNE__J=w1200-h675-no?authuser=1" is-favorite="1",DMax | SD
 https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?sid=3m70ljtem4xf&app=5a02c599-d17e-4982-9b04-090934d51af7&ce=3
 
 TLC
-#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://photos.google.com/u/1/share/AF1QipN3t7Z9KOgQUSZLkriVw37k6Zaeb1EB2Sr5-bYovXyCGSzvZ2SfownTptAF3gfk1A/photo/AF1QipP1K4fQf5L9lvJ_eIaKJXngdh76sVhvE3LhPyFf?key=dXlMdWNuaDl1c0FnNXJkeXRzRE9GMlgyTDFPWnF3" is-favorite="1",TLC | SD
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://lh3.googleusercontent.com/_GvKlfV5KS1q8sh7zv6KPOmfCdJBpfOMl5rd644acqqz5ZkdG_3kUuvB9E2zDT4c1tXZNLZQdbJYyApd9V_JgpYEEvSjmw9sp4PqKi90su3Q3kqjD5lW4YkUMH8w3AzN-M5tPz59EyYFPrXifsSWxfSAzOhyitKB4Xzx2II_liHwk103_5y5-c61i3btvrE6MNjcBlrBeeLSuLPK4WzKzMuFkYDtUshB6KkIEdLL73ag8qBE3GzYKQ_m_7G_AEeeOb4zpgpHI7Ljmkp4hUIybsQ2kt9urw14asNFxuXAk_ZVB4FLkeHVmCFNVC0A4JbU0tGIzfj9ltJ9IxQ-lbm8wsIomoTaLkue-pqhpdxny-IvJtln4pVWzlsXTWoVuf-NJfFiDareHiMETRIChdFJSkexb4-Uc0T8axMNEl_v90deKz-7x-l_ZvC9wUaEShnL5ZadiM4hkmlu35ZiKSFWhQ_30ZZUtKRE7hMC-r4yv7TXwm3Xs47TWsHGL3pWxqJXYDTNKAJA3NvlP-btP-8DZde198Mn4X9-NBfPLx6yv921q8NqIkXo8brOYE6DHEDWYXxBZcOs5vN6J5x8OGIm5aRdDPurO7bH6YTR42iCRmc4K_d6HzWv154VsfW6FRSTry9Vuz3msj7tjRJyU5mS3C--s7mbXwLD-u4rvMtLuwMhNc0eC-AMWJOqjefEavWV3kZlrVMSht1Om6ZKamNFAHVe=w999-h518-no?authuser=1" is-favorite="1",TLC | SD
 https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?sid=3m70rgy9ptwz&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&ce=3
 
 TRT Belgesel
@@ -33,7 +33,7 @@ TRT Belgesel
 https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 
 National Geographic Channel
-#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://photos.google.com/u/1/share/AF1QipN3t7Z9KOgQUSZLkriVw37k6Zaeb1EB2Sr5-bYovXyCGSzvZ2SfownTptAF3gfk1A/photo/AF1QipOOHC4r7XPkYX31WeD3-bNRXD8ofudAIFNTUutt?key=dXlMdWNuaDl1c0FnNXJkeXRzRE9GMlgyTDFPWnF3" is-favorite="1",National Geographic Channel | HD
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://lh3.googleusercontent.com/3RiIIw7qpb84_lKr1lmd9lSeyGtCtshZJ8_TLa3OGvWqiO_KwrWEfBLcaGRQ75CnicdtW_QT5eX7_pQkUEHJKzWH6TlQdZgUAmjQtAuXFiQlpNze10GFX-wqMTYQ1s4QkHg_CJKAI9V2H9VbSyJJ7ou84408D3fMTnNCaDURpYHAbyu_kcthnRiqXTJa2dRhAMf2SOUgNyUgjzEMo1Va4GO0Gp2JGZr9nErr6290fBHHkxC0T8VDbfVG9Nk9q_q7_yuNP3Q6UaRWA_MhcujGL51ULED6A58nRqN1MLBamIiYIzMQqXdcgS7WU_JMICtBTN2yyvdQ7cTB-0h1LTTutM6O1ty4ABTsqw9qp-lG4NbF-pDJjJnrG8vsR-99HfsCMIcgZMIpkvksym-7sEFhLzQqFPc6_jIeafJsq_UFe2Xc-0pQHibeNAlzYjYW1e9ccAaV6I_vVjAZSbe_iv-H9PXQQoY3BgBhj234lufwmxZKNN9NPhBTG-pLR_naKMmnF9P0EI9vsJ1VhYw7lJPCgLx6A8Hqv1QPqivi6J0MPbTZZMmqO1-dbmJ6WlIM6ausXflSdAo5ZhfMLZIM1ZMmGsfqx4eZ2rrulMey5j2_HjUi88eWIlQj0yrn7NzCrt3HT29vJjk_YSA04IhbEM8TiE0_w11PXAgklwHUY9eLJjSHICrIBpp6IqwC3lXm_AvsVWYqmyqKqRW4tl19_OXObvWE=w1870-h555-no?authuser=1" is-favorite="1",National Geographic Channel | HD
 http://master-ao.questel.fr:80/aTZr4rDP/am6eTzrz/89483
 
 Halk Tv
