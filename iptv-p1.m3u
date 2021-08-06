@@ -32,6 +32,14 @@ TLC
 #EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://photos.google.com/u/1/share/AF1QipN3t7Z9KOgQUSZLkriVw37k6Zaeb1EB2Sr5-bYovXyCGSzvZ2SfownTptAF3gfk1A/photo/AF1QipP1K4fQf5L9lvJ_eIaKJXngdh76sVhvE3LhPyFf?key=dXlMdWNuaDl1c0FnNXJkeXRzRE9GMlgyTDFPWnF3" is-favorite="1",TLC | SD
 https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?sid=3m70rgy9ptwz&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&ce=3
 
+TRT Belgesel
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://lh3.googleusercontent.com/pw/AM-JKLXMSx2I3DI0vZHimz4Y7tCr37lQcdAgFt_DixPxA_7aAPmPVyFU6yFTmn70OVm_BJ9RZuhAdWWbtsf7PhcWro_i_pw-9GDNOIEORRQhB2j2E6ZxbJ6UsOERoDuhsHe9cLwXwl-1NnbBWXElTfgYQ7pn=w1280-h138-no?authuser=1" is-favorite="1",TRT Belgesel | HD
+https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
+
+National Geographic Channel
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://photos.google.com/u/1/share/AF1QipN3t7Z9KOgQUSZLkriVw37k6Zaeb1EB2Sr5-bYovXyCGSzvZ2SfownTptAF3gfk1A/photo/AF1QipOOHC4r7XPkYX31WeD3-bNRXD8ofudAIFNTUutt?key=dXlMdWNuaDl1c0FnNXJkeXRzRE9GMlgyTDFPWnF3" is-favorite="1",National Geographic Channel | HD
+http://master-ao.questel.fr:80/aTZr4rDP/am6eTzrz/89483
+
 Halk Tv
 #EXTINF:-1 group-title="Haber Kanalları" tvg-logo="https://lh3.googleusercontent.com/pw/AM-JKLUI674s0jzt89Jf21fHfYbOCUw3yrOCma7zcUgMXNIlGWVMV_8SjiQScY5z_BheGW6AR_iNzLTnnlyUCBK8SbHhEWH7-ViuoP2oMyNXQdc6ANrGSv4KaVSuUaiY4xfFIfPXcAEgd_oaJhBg2kz4EGQ=w368-h150-no?authuser=0",Halk Tv | SD
 https://halktv-live.ercdn.net/halktv/halktv_720p.m3u8%22
