@@ -45,17 +45,27 @@ Discovery Science
 #EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://lh3.googleusercontent.com/HZ0wMPHhsBk2fhE9vO7zVeOKSXu2TPaUWSD-6JsvL40q9cuYOWFheEB-K76I5kkGMyKR2QV1Aypy8x0hsyx-cVU7-IS8EMgq78eTE83DKjSqD-o-EJFV_uMGVcx719U3-gdhGxjqJWwccbmQj--mcFxr7y7orDimeS0fXHVAUeg_t_A5E66H8j6BaWr7K7mlRTKvTEh79QHNoGqL4L5jgj7WenxcJbizdUp0iEYAFU5Ppfmtdtgp7Bzu9huk0DjogGqSIDZfZHaGRRnq0LrMf3FnRNAx0j4v35seZE2pgBuUFslYT7LHB44Q2h5lWWU9L3qJjDlIEdUndGs75tRbEsxBQ8ewl6rY5yJEAL4XhhUUml-vtacX69k47WcCDj0zos6UgWjvAA3tbYT9nLp_QC8BYTFEpqga_vsITn_289TjO44ziu1KGo_t69hm9mahBrp_Aa-eq5oEkcWaSdQa297xg7yfqxkvzjIBHOZQqEM65RzAM9T38aVUU-BuOrFxN-IhEDbaS_56aZSjGSABM6nHwM5q5fdvGNQ50tw6WoFY0RoZnaMsevUavvRF5ZFC77FbdSxTE6lcRmVb8e06X8wyoxdXowoGj6s4lHvh73ujb8PWqQUdIKloXQ3DM4yhtY0o-9e3VMGMPi9KQdA0sk2BE9L2kE8qo5JjjPMnUKyTOOgIxhsgN2ncWi_Egwch2nWOo95Bjjg-VsfwNq-piDkW=w1024-h605-no?authuser=1" is-favorite="1",Discovery Science | HD
 http://pascaltv.site:8080/F12611/b199b47b/11081
 
+.............. Haber Kanalları ..................
+
 Halk Tv
-#EXTINF:-1 group-title="Haber Kanalları" tvg-logo="https://lh3.googleusercontent.com/pw/AM-JKLUI674s0jzt89Jf21fHfYbOCUw3yrOCma7zcUgMXNIlGWVMV_8SjiQScY5z_BheGW6AR_iNzLTnnlyUCBK8SbHhEWH7-ViuoP2oMyNXQdc6ANrGSv4KaVSuUaiY4xfFIfPXcAEgd_oaJhBg2kz4EGQ=w368-h150-no?authuser=0",Halk Tv | SD
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://lh3.googleusercontent.com/pw/AM-JKLUI674s0jzt89Jf21fHfYbOCUw3yrOCma7zcUgMXNIlGWVMV_8SjiQScY5z_BheGW6AR_iNzLTnnlyUCBK8SbHhEWH7-ViuoP2oMyNXQdc6ANrGSv4KaVSuUaiY4xfFIfPXcAEgd_oaJhBg2kz4EGQ=w368-h150-no?authuser=0",Halk Tv | SD
 https://halktv-live.ercdn.net/halktv/halktv_720p.m3u8%22
-#EXTINF:-1 group-title="Haber Kanalları" tvg-logo="https://lh3.googleusercontent.com/pw/AM-JKLUI674s0jzt89Jf21fHfYbOCUw3yrOCma7zcUgMXNIlGWVMV_8SjiQScY5z_BheGW6AR_iNzLTnnlyUCBK8SbHhEWH7-ViuoP2oMyNXQdc6ANrGSv4KaVSuUaiY4xfFIfPXcAEgd_oaJhBg2kz4EGQ=w368-h150-no?authuser=0",Halk Tv | HD
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://lh3.googleusercontent.com/pw/AM-JKLUI674s0jzt89Jf21fHfYbOCUw3yrOCma7zcUgMXNIlGWVMV_8SjiQScY5z_BheGW6AR_iNzLTnnlyUCBK8SbHhEWH7-ViuoP2oMyNXQdc6ANrGSv4KaVSuUaiY4xfFIfPXcAEgd_oaJhBg2kz4EGQ=w368-h150-no?authuser=0",Halk Tv | HD
 http://ata.mobytech.eu:8080/gokselv4/01082020/76953
 
 KRT Tv
-#EXTINF:-1 group-title="Haber Kanalları" tvg-logo="https://lh3.googleusercontent.com/pw/AM-JKLV2mpv_Y9BDYU4dMUnz_XM0tHqxwgdSQ2ztsfuh9iTg1KtnzC9KANUMzBO963H4_p4eP8pnXpPT46DxYorD5Pd-6IQSvMm13d6kxLn1lmy_yhdEAFnfTGHgbzjQ89OlC_yipsm3GXtjddx4AzjuNiQ=w206-h120-no?authuser=0",KRT Tv | HD1
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://lh3.googleusercontent.com/pw/AM-JKLV2mpv_Y9BDYU4dMUnz_XM0tHqxwgdSQ2ztsfuh9iTg1KtnzC9KANUMzBO963H4_p4eP8pnXpPT46DxYorD5Pd-6IQSvMm13d6kxLn1lmy_yhdEAFnfTGHgbzjQ89OlC_yipsm3GXtjddx4AzjuNiQ=w206-h120-no?authuser=0",KRT Tv | HD1
 http://live1.krttv.com.tr/show/krttv_mobil/index.m3u8
-#EXTINF:-1 group-title="Haber Kanalları" tvg-logo="https://lh3.googleusercontent.com/pw/AM-JKLV2mpv_Y9BDYU4dMUnz_XM0tHqxwgdSQ2ztsfuh9iTg1KtnzC9KANUMzBO963H4_p4eP8pnXpPT46DxYorD5Pd-6IQSvMm13d6kxLn1lmy_yhdEAFnfTGHgbzjQ89OlC_yipsm3GXtjddx4AzjuNiQ=w206-h120-no?authuser=0",KRT Tv | HD2
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://lh3.googleusercontent.com/pw/AM-JKLV2mpv_Y9BDYU4dMUnz_XM0tHqxwgdSQ2ztsfuh9iTg1KtnzC9KANUMzBO963H4_p4eP8pnXpPT46DxYorD5Pd-6IQSvMm13d6kxLn1lmy_yhdEAFnfTGHgbzjQ89OlC_yipsm3GXtjddx4AzjuNiQ=w206-h120-no?authuser=0",KRT Tv | HD2
 http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/38.ts
+
+Haber Türk
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://photos.google.com/u/1/photo/AF1QipOTnPznzGMWAvyCGA9Ir3i6HZPFf4CZo91b-o0c",Haber Türk | HD
+https://ciner-live.ercdn.net/haberturk/haberturk_720p.m3u8?e=1629061633&st=q63UpIgBBu4wjRftB8wIFQ&tv=1
+
+Haber Global
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://photos.google.com/u/1/search/_tra_/photo/AF1QipPiSc73uTPmcGOtZPVZ5ph6mqRWSCWHMgrnSD1P",Haber Türk | HD
+https://stream-04.ix7.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSprhmsgBwFQBkadrBhYYXf_0)/dm/3/x81x3cd/s/live-2.m3u8
 
 Filmler
 #EXTINF:-1 group-title="Filmler" tvg-logo="https://tr.web.img4.acsta.net/c_310_420/medias/nmedia/18/91/15/84/20347421.jpg",Flight - Uçuş (2012) | FHD | Türkçe Altyazılı
