@@ -8,15 +8,13 @@ https://live-01.tvjetapp.com/ch-7/live.m3u8
 
 Star Tv
 #EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://lh3.googleusercontent.com/pw/AM-JKLXdC4_WHbIZCUdG9w6AzKGyh4fVnwBMJJ06lXcN0dDo7FYR7BHZDZo7WQsNoHgxoT7_f3i4wAEJ58pZAMyW7O9LSkU3rrjjrQxqCIk0iZ-D7wHRh9YBvwZoYOkLEmDk93f66keSpYJwLm9ENZgOamsY=w718-h833-no?authuser=0" is-favorite="1",Star Tv | HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6407.ts
+https://mn-nl.mncdn.com/blutv_startv_dvr/live.m3u8
 
 Kanal D
 #EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://lh3.googleusercontent.com/pw/AM-JKLXsb2dkQw2lMI2tdu2ZZl0BNwXZTni0E2gGe8g0WDWFVDO0xuGsNtbHSo4_B7SQ3Y2Viw9g9GLJWzVa79nEwr9wG6MclwYQmjCl8lyV-zcHhbA7hLRQpaiZe97_QYVMTEjog4mUeogCL1bvQzWLKC26=w880-h833-no?authuser=1" is-favorite="1",Kanal D | HD
 https://av.livestreamlive.xyz/hls/kanald.m3u8
 
 Atv
-#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://lh3.googleusercontent.com/pw/AM-JKLWoH90NhTWDCV_kdD26hERRKZxpgS5FGTli4WLvXLVMMHVW6PIxhdd4q8RGeig5CkgxXDZLoTjGri2WR1xf45F4duqU-7ds7xyvlkDHpoN35XqJyAjXU_3L394Py8A02Z8BcbM0XYlC9qRJxjjpdRhP=w300-h301-no?authuser=0" is-favorite="1",ATV | HD
-https://str01.mitream.net/ch-5ffc9fe7d1fcbe251d64ab02/mitream.m3u8?t=zL9ULnFsKTTxipxa4RbSSQ&e=1628371886
 #EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://lh3.googleusercontent.com/pw/AM-JKLWoH90NhTWDCV_kdD26hERRKZxpgS5FGTli4WLvXLVMMHVW6PIxhdd4q8RGeig5CkgxXDZLoTjGri2WR1xf45F4duqU-7ds7xyvlkDHpoN35XqJyAjXU_3L394Py8A02Z8BcbM0XYlC9qRJxjjpdRhP=w300-h301-no?authuser=0" is-favorite="1",ATV | SD
 https://live-01.tvjetapp.com/ch-14/live.m3u8
 
