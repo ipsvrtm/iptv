@@ -68,6 +68,10 @@ CNN Türk
 #EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://lh3.googleusercontent.com/pw/AM-JKLU_TuntZhUkVr_jZ1pARjuWvciLCNzwWxhGdqoORwRPbCvjcFcRU_tOC3VOOctRPgM9VE_Sngchap2RdAbBLEto6HyjC0T1bohXH7ktHGY5ZLXiMO48l86cWSxzDifXupVTX3dxSnnTPcmO0hckm4yR=w299-h238-no?authuser=1",CNN Türk | HD
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
 
+Radio
+#EXTINF:-1 group-title="Radyo" tvg-logo="http://www.radyosfer.com/ImageHandler.ashx?roll_no=884",Aksaray FM | HD
+https://ssl.radyosfer.com:7016/;
+
 Filmler
 #EXTINF:-1 group-title="Filmler" tvg-logo="https://tr.web.img4.acsta.net/c_310_420/medias/nmedia/18/91/15/84/20347421.jpg",Flight - Uçuş (2012) | FHD | Türkçe Altyazılı
 https://www228.ff-01.com/token=LU_iGvPJ_iL9D2HC4Sspbg/1628216079/95.15.0.0/82/1/d4/d639d1b3cbe864d343feab9769b87d41-1080p.mp4
