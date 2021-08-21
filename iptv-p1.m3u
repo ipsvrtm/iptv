@@ -69,8 +69,21 @@ CNN Türk
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
 
 Radio
-#EXTINF:-1 group-title="Radyo" tvg-logo="http://www.radyosfer.com/ImageHandler.ashx?roll_no=884",Aksaray FM | HD
+Aksaray FM
+#EXTINF:-1 group-title="Radyo" tvg-logo="http://www.radyosfer.com/ImageHandler.ashx?roll_no=884",Aksaray FM | TR
 https://ssl.radyosfer.com:7016/;
+
+Radio Energy BG
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://www.radioenergy.bg/theme_assets/radioenergy/images/logo.png",Radio Energy | BG
+http://play.global.audio/nrj.opus
+
+Radio City BG
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://www.city.bg/theme_assets/city/images/logo.png",Radio City | BG
+http://play.global.audio/city.opus
+
+Radio Fresh BG
+#EXTINF:-1 group-title="Radyo" tvg-logo="http://radiofresh.bg/i/footer-fresh.gif",Radio Fresh | BG
+http://193.108.24.21:8000/fresh?file=.mp3
 
 Filmler
 #EXTINF:-1 group-title="Filmler" tvg-logo="https://tr.web.img4.acsta.net/c_310_420/medias/nmedia/18/91/15/84/20347421.jpg",Flight - Uçuş (2012) | FHD | Türkçe Altyazılı
