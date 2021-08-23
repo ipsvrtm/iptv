@@ -85,15 +85,20 @@ Radio Fresh BG
 #EXTINF:-1 group-title="Radyo" tvg-logo="http://radiofresh.bg/i/footer-fresh.gif",Radio Fresh | BG
 http://193.108.24.21:8000/fresh?file=.mp3
 
-Filmler
+... Filmler ...
+Bir Eksik
+#EXTINF:-1 group-title="Filmler" tvg-logo="https://img01.imgsinemalar.com/images/afis_dev/b/bir-eksik-1620743556.jpg",Bir Eksik | FHD | Türkçe Dublaj
+https://srv30.filmmodu.xyz/tt4733624/1080p.tr.m3u8
+
+KARANLIKTAN GELEN
+#EXTINF:-1 group-title="Filmler" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDYwMmExN2MtYTBlMS00OWU4LWFmMGItMTdlYWRjN2NhYjY5XkEyXkFqcGdeQXVyMTYzMDkwNjg@._V1_.jpg",Karanlıktan Gelen | FHD | Türkçe Dublaj
+https://s13-3.simplexml.in/ustore_content/480-b9ad5c73db32cc6b62afa6467005ad27.mp4/index.m3u8?md5=U6slansYMv7bzGLCnxlA4w&expires=1629762451
+
+Flight - Uçuş
 #EXTINF:-1 group-title="Filmler" tvg-logo="https://tr.web.img4.acsta.net/c_310_420/medias/nmedia/18/91/15/84/20347421.jpg",Flight - Uçuş (2012) | FHD | Türkçe Altyazılı
 https://www228.ff-01.com/token=LU_iGvPJ_iL9D2HC4Sspbg/1628216079/95.15.0.0/82/1/d4/d639d1b3cbe864d343feab9769b87d41-1080p.mp4
 #EXTINF:-1 group-title="Filmler" tvg-logo="https://tr.web.img4.acsta.net/c_310_420/medias/nmedia/18/91/15/84/20347421.jpg",Flight - Uçuş (2012) | FHD | Türkçe Dublaj
 https://srv58.filmmodu.xyz/tt1907668/1080p.tr.m3u8
-
-Orman Gezisi
-#EXTINF:-1 group-title="Filmler" tvg-logo="https://tr.web.img4.acsta.net/c_310_420/medias/nmedia/18/91/15/84/20347421.jpg",Orman Gezisi | FHD | Türkçe Altyazılı
-#EXTVLCOPT: sub-file=https://raw.githubusercontent.com/ipsvrtm/iptv/main/ormangezisi%20traltyaz%C4%B1.srt
 
 Belgeseller
 Joel Lambert: Fukuşima Felaketi
