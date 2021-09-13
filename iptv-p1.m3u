@@ -4,15 +4,15 @@ Fox Tv
 #EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://lh3.googleusercontent.com/pw/AM-JKLXjuWbl279dRjBlrvAb39gwhxYg5vxKD9ni1X2uFRZHM-I6yWyKegXIU0-4o83drGFSmhYin1hkBzMdCXLG2AHdGu-L52GvQLFIdusSpF-XkCu1eYmoku-n_zdV3bjw1p0HWfAqTnYnB83cOctOSTyC=s833-no?authuser=0",Fox Tv | HD
 http://xtream-iptvpanel.com:8080/alican01/01alican/97589
 #EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://lh3.googleusercontent.com/pw/AM-JKLXjuWbl279dRjBlrvAb39gwhxYg5vxKD9ni1X2uFRZHM-I6yWyKegXIU0-4o83drGFSmhYin1hkBzMdCXLG2AHdGu-L52GvQLFIdusSpF-XkCu1eYmoku-n_zdV3bjw1p0HWfAqTnYnB83cOctOSTyC=s833-no?authuser=0",Fox Tv | SD
-https://live-01.tvjetapp.com/ch-7/live.m3u8
+https://vobook.ru:8080/https://mn-nl.mncdn.com/blutv_foxtv_dvr/live_720p2000000/index.m3u8
 
 Star Tv
 #EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://lh3.googleusercontent.com/pw/AM-JKLXdC4_WHbIZCUdG9w6AzKGyh4fVnwBMJJ06lXcN0dDo7FYR7BHZDZo7WQsNoHgxoT7_f3i4wAEJ58pZAMyW7O9LSkU3rrjjrQxqCIk0iZ-D7wHRh9YBvwZoYOkLEmDk93f66keSpYJwLm9ENZgOamsY=w718-h833-no?authuser=0" is-favorite="1",Star Tv | HD
-https://mn-nl.mncdn.com/blutv_startv_dvr/live.m3u8
+https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 
 Kanal D
 #EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://lh3.googleusercontent.com/pw/AM-JKLXsb2dkQw2lMI2tdu2ZZl0BNwXZTni0E2gGe8g0WDWFVDO0xuGsNtbHSo4_B7SQ3Y2Viw9g9GLJWzVa79nEwr9wG6MclwYQmjCl8lyV-zcHhbA7hLRQpaiZe97_QYVMTEjog4mUeogCL1bvQzWLKC26=w880-h833-no?authuser=1" is-favorite="1",Kanal D | HD
-https://av.livestreamlive.xyz/hls/kanald.m3u8
+https://vobook.ru:8080/https://mn-nl.mncdn.com/blutv_kanald_dvr/live_720p2000000/index.m3u8
 
 Atv
 #EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://lh3.googleusercontent.com/pw/AM-JKLWoH90NhTWDCV_kdD26hERRKZxpgS5FGTli4WLvXLVMMHVW6PIxhdd4q8RGeig5CkgxXDZLoTjGri2WR1xf45F4duqU-7ds7xyvlkDHpoN35XqJyAjXU_3L394Py8A02Z8BcbM0XYlC9qRJxjjpdRhP=w300-h301-no?authuser=0" is-favorite="1",ATV | HD
@@ -20,7 +20,7 @@ https://trkvz-live.ercdn.net/atvhd/atvhd_1080p.m3u8?st=Aedz2Z0K3CQrx3RnIpGZVw&e=
 
 Show Tv
 #EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://lh3.googleusercontent.com/pw/AM-JKLW67f0dccc80vj21oKqIZ2auLCY14LtJwYzHlKMxUQZelnDKF_g-Nzsn52lCzJcrexN05J1XtZU5-mevqvHaaJLzKDJen7ro2BytYB8WpJakv31SXCwrJPcj4q8IIEANRZDMHUka8p5XFZmm2QB8Zqj=s375-no?authuser=1" is-favorite="1",Show Tv | HD
-https://av.livestreamlive.xyz/hls/show.m3u8
+https://vobook.ru:8080/https://mn-nl.mncdn.com/blutv_showtv_dvr/live_720p2000000/index.m3u8
 
 DMax
 #EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://lh3.googleusercontent.com/pw/AM-JKLUI4G2a-6ql4V90LC0xMNQZTZVqOVQHiYRz-fgT7UIFE6CWJ5oSB56aaExNhdnXpd_zL7ge4k0DxUR4F541RzYliL6Rlu2HVMDa6WXG0v3YN2EvZ2ZVMg0KD6Rar5PAnZHegac3ZiC-AP8RuimNE__J=w1200-h675-no?authuser=1" is-favorite="1",DMax | HD
