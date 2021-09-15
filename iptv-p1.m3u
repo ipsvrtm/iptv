@@ -1,77 +1,95 @@
 #EXTM3U $BorpasFileFormat="1"
 
 Fox Tv
-#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://lh3.googleusercontent.com/pw/AM-JKLXjuWbl279dRjBlrvAb39gwhxYg5vxKD9ni1X2uFRZHM-I6yWyKegXIU0-4o83drGFSmhYin1hkBzMdCXLG2AHdGu-L52GvQLFIdusSpF-XkCu1eYmoku-n_zdV3bjw1p0HWfAqTnYnB83cOctOSTyC=s833-no?authuser=0",Fox Tv | HD
-http://xtream-iptvpanel.com:8080/alican01/01alican/97589
-#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://lh3.googleusercontent.com/pw/AM-JKLXjuWbl279dRjBlrvAb39gwhxYg5vxKD9ni1X2uFRZHM-I6yWyKegXIU0-4o83drGFSmhYin1hkBzMdCXLG2AHdGu-L52GvQLFIdusSpF-XkCu1eYmoku-n_zdV3bjw1p0HWfAqTnYnB83cOctOSTyC=s833-no?authuser=0",Fox Tv | SD
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://1.bp.blogspot.com/-pk8d_HoLNGE/YUIjNakouwI/AAAAAAAAAl8/6PuwRHJhPqENC16FoCfjZ-CwCmvJQTk6ACPcBGAsYHg/s0/fox-turkiye-logo.png" is-favorite="1",Fox Tv | SD
 https://vobook.ru:8080/https://mn-nl.mncdn.com/blutv_foxtv_dvr/live_720p2000000/index.m3u8
 
 Star Tv
-#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://lh3.googleusercontent.com/pw/AM-JKLXdC4_WHbIZCUdG9w6AzKGyh4fVnwBMJJ06lXcN0dDo7FYR7BHZDZo7WQsNoHgxoT7_f3i4wAEJ58pZAMyW7O9LSkU3rrjjrQxqCIk0iZ-D7wHRh9YBvwZoYOkLEmDk93f66keSpYJwLm9ENZgOamsY=w718-h833-no?authuser=0" is-favorite="1",Star Tv | HD
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://1.bp.blogspot.com/--6FblH7L_AU/YUIjNa7LOoI/AAAAAAAAAl8/yFpgnyYk3EID6GPyUGxQd1lJJG3tPXADACPcBGAsYHg/s0/startvlogo.png" is-favorite="1",Star Tv | HD
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 
 Kanal D
-#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://lh3.googleusercontent.com/pw/AM-JKLXsb2dkQw2lMI2tdu2ZZl0BNwXZTni0E2gGe8g0WDWFVDO0xuGsNtbHSo4_B7SQ3Y2Viw9g9GLJWzVa79nEwr9wG6MclwYQmjCl8lyV-zcHhbA7hLRQpaiZe97_QYVMTEjog4mUeogCL1bvQzWLKC26=w880-h833-no?authuser=1" is-favorite="1",Kanal D | HD
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://1.bp.blogspot.com/-giXTn-E-wz0/YUIjNZOKCgI/AAAAAAAAAl8/VXjqanTj3iQE8AwY5qmWUI6cDgLCFx3JQCPcBGAsYHg/s0/Kanal_D_%25281994-.n.v.%2529logo.png" is-favorite="1",Kanal D | HD
 https://vobook.ru:8080/https://mn-nl.mncdn.com/blutv_kanald_dvr/live_720p2000000/index.m3u8
 
 Atv
-#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://lh3.googleusercontent.com/pw/AM-JKLWoH90NhTWDCV_kdD26hERRKZxpgS5FGTli4WLvXLVMMHVW6PIxhdd4q8RGeig5CkgxXDZLoTjGri2WR1xf45F4duqU-7ds7xyvlkDHpoN35XqJyAjXU_3L394Py8A02Z8BcbM0XYlC9qRJxjjpdRhP=w300-h301-no?authuser=0" is-favorite="1",ATV | HD
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://1.bp.blogspot.com/-HhOKM4sBAyg/YUIjNf4NAzI/AAAAAAAAAl8/5rKBaWzQ-bobJswaUzKvloZuRR3vSPf7wCPcBGAsYHg/s0/atv-logo.png" is-favorite="1",ATV | HD
 https://trkvz-live.ercdn.net/atvhd/atvhd.m3u8?st=jYzS1ltCNu1mf_VCYSB2Pw&e=1631676655&SessionID=1.3.944803760.1631631389&StreamGroup=canli-yayin&Site=atv&DeviceGroup=web
 
 Show Tv
-#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://lh3.googleusercontent.com/pw/AM-JKLW67f0dccc80vj21oKqIZ2auLCY14LtJwYzHlKMxUQZelnDKF_g-Nzsn52lCzJcrexN05J1XtZU5-mevqvHaaJLzKDJen7ro2BytYB8WpJakv31SXCwrJPcj4q8IIEANRZDMHUka8p5XFZmm2QB8Zqj=s375-no?authuser=1" is-favorite="1",Show Tv | HD
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://1.bp.blogspot.com/-SqJWfXtwMcA/YUIjNRJoacI/AAAAAAAAAl8/hG_HMycXZ90tefOGRvJo29-3-hkMUFPXgCPcBGAsYHg/s0/Logo_of_Show_TV.png" is-favorite="1",Show Tv | HD
 https://vobook.ru:8080/https://mn-nl.mncdn.com/blutv_showtv_dvr/live_720p2000000/index.m3u8
+
+Kanal 7
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://1.bp.blogspot.com/-_UvsbvVmlpU/YUIsfZ6NoQI/AAAAAAAAAmw/8CBGf6OoGKMuR7IsHCB7sdxwm7ajC2gsgCPcBGAsYHg/s0/kanal7pngegg.png" is-favorite="1",Kanal 7 | HD
+https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
+
+TV8
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://1.bp.blogspot.com/-JGxpZKIJJSw/YUIjNXCrmkI/AAAAAAAAAl8/3vIoA7YrMWcMH5qOMy25VcoIQjU_K3jJgCPcBGAsYHg/s0/Tv8_Yeni_Logo.png" is-favorite="1",Tv8 | HD
+https://live.livestreamlive.xyz/tv8.m3u8?anahtar=sjEPjL2ScHp1Vkw4vPvlwQ&sure=1631747709&ip=94.236.226.30
+
+TRT1
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://1.bp.blogspot.com/-j6hbrqdSrjk/YUIjNTpf3mI/AAAAAAAAAl8/q1-Ge-DmpOo6IWFTrSQQrcQeWkw3n-CLACPcBGAsYHg/s320/TRT_1_logo_%25282012-2021%2529.png" is-favorite="1",TRT1 | HD
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 
 DMax
 #EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://lh3.googleusercontent.com/pw/AM-JKLUI4G2a-6ql4V90LC0xMNQZTZVqOVQHiYRz-fgT7UIFE6CWJ5oSB56aaExNhdnXpd_zL7ge4k0DxUR4F541RzYliL6Rlu2HVMDa6WXG0v3YN2EvZ2ZVMg0KD6Rar5PAnZHegac3ZiC-AP8RuimNE__J=w1200-h675-no?authuser=1" is-favorite="1",DMax | HD
 https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?sid=3m70ljtem4xf&app=5a02c599-d17e-4982-9b04-090934d51af7&ce=3
 
 TLC
-#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://lh3.googleusercontent.com/_GvKlfV5KS1q8sh7zv6KPOmfCdJBpfOMl5rd644acqqz5ZkdG_3kUuvB9E2zDT4c1tXZNLZQdbJYyApd9V_JgpYEEvSjmw9sp4PqKi90su3Q3kqjD5lW4YkUMH8w3AzN-M5tPz59EyYFPrXifsSWxfSAzOhyitKB4Xzx2II_liHwk103_5y5-c61i3btvrE6MNjcBlrBeeLSuLPK4WzKzMuFkYDtUshB6KkIEdLL73ag8qBE3GzYKQ_m_7G_AEeeOb4zpgpHI7Ljmkp4hUIybsQ2kt9urw14asNFxuXAk_ZVB4FLkeHVmCFNVC0A4JbU0tGIzfj9ltJ9IxQ-lbm8wsIomoTaLkue-pqhpdxny-IvJtln4pVWzlsXTWoVuf-NJfFiDareHiMETRIChdFJSkexb4-Uc0T8axMNEl_v90deKz-7x-l_ZvC9wUaEShnL5ZadiM4hkmlu35ZiKSFWhQ_30ZZUtKRE7hMC-r4yv7TXwm3Xs47TWsHGL3pWxqJXYDTNKAJA3NvlP-btP-8DZde198Mn4X9-NBfPLx6yv921q8NqIkXo8brOYE6DHEDWYXxBZcOs5vN6J5x8OGIm5aRdDPurO7bH6YTR42iCRmc4K_d6HzWv154VsfW6FRSTry9Vuz3msj7tjRJyU5mS3C--s7mbXwLD-u4rvMtLuwMhNc0eC-AMWJOqjefEavWV3kZlrVMSht1Om6ZKamNFAHVe=w999-h518-no?authuser=1" is-favorite="1",TLC | SD
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://1.bp.blogspot.com/-GNnCGoiKR2Q/YUIjNa47sHI/AAAAAAAAAl8/ZrZEf-10nK0lx8BH3ghmU-uCgfv3f_EKgCPcBGAsYHg/s320/TLC-Logo_2016.png" is-favorite="1",TLC | SD
 https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?sid=3m70rgy9ptwz&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&ce=3
 
 TRT Belgesel
-#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://lh3.googleusercontent.com/pw/AM-JKLXMSx2I3DI0vZHimz4Y7tCr37lQcdAgFt_DixPxA_7aAPmPVyFU6yFTmn70OVm_BJ9RZuhAdWWbtsf7PhcWro_i_pw-9GDNOIEORRQhB2j2E6ZxbJ6UsOERoDuhsHe9cLwXwl-1NnbBWXElTfgYQ7pn=w1280-h138-no?authuser=1" is-favorite="1",TRT Belgesel | HD
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://1.bp.blogspot.com/-VDz3tQ1T_gU/YUIjNV68tXI/AAAAAAAAAl8/Nk-Wcam9weg6wVALfNkhWPGtdW3X17QHgCPcBGAsYHg/s320/TRT_Belgesel_logo_%25282019-%2529.png" is-favorite="1",TRT Belgesel | HD
 https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
-
-National Geographic Channel
-#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://lh3.googleusercontent.com/3RiIIw7qpb84_lKr1lmd9lSeyGtCtshZJ8_TLa3OGvWqiO_KwrWEfBLcaGRQ75CnicdtW_QT5eX7_pQkUEHJKzWH6TlQdZgUAmjQtAuXFiQlpNze10GFX-wqMTYQ1s4QkHg_CJKAI9V2H9VbSyJJ7ou84408D3fMTnNCaDURpYHAbyu_kcthnRiqXTJa2dRhAMf2SOUgNyUgjzEMo1Va4GO0Gp2JGZr9nErr6290fBHHkxC0T8VDbfVG9Nk9q_q7_yuNP3Q6UaRWA_MhcujGL51ULED6A58nRqN1MLBamIiYIzMQqXdcgS7WU_JMICtBTN2yyvdQ7cTB-0h1LTTutM6O1ty4ABTsqw9qp-lG4NbF-pDJjJnrG8vsR-99HfsCMIcgZMIpkvksym-7sEFhLzQqFPc6_jIeafJsq_UFe2Xc-0pQHibeNAlzYjYW1e9ccAaV6I_vVjAZSbe_iv-H9PXQQoY3BgBhj234lufwmxZKNN9NPhBTG-pLR_naKMmnF9P0EI9vsJ1VhYw7lJPCgLx6A8Hqv1QPqivi6J0MPbTZZMmqO1-dbmJ6WlIM6ausXflSdAo5ZhfMLZIM1ZMmGsfqx4eZ2rrulMey5j2_HjUi88eWIlQj0yrn7NzCrt3HT29vJjk_YSA04IhbEM8TiE0_w11PXAgklwHUY9eLJjSHICrIBpp6IqwC3lXm_AvsVWYqmyqKqRW4tl19_OXObvWE=w1870-h555-no?authuser=1" is-favorite="1",National Geographic Channel | HD
-http://master-ao.questel.fr:80/aTZr4rDP/am6eTzrz/89483
-
-Discovery Science
-#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://lh3.googleusercontent.com/HZ0wMPHhsBk2fhE9vO7zVeOKSXu2TPaUWSD-6JsvL40q9cuYOWFheEB-K76I5kkGMyKR2QV1Aypy8x0hsyx-cVU7-IS8EMgq78eTE83DKjSqD-o-EJFV_uMGVcx719U3-gdhGxjqJWwccbmQj--mcFxr7y7orDimeS0fXHVAUeg_t_A5E66H8j6BaWr7K7mlRTKvTEh79QHNoGqL4L5jgj7WenxcJbizdUp0iEYAFU5Ppfmtdtgp7Bzu9huk0DjogGqSIDZfZHaGRRnq0LrMf3FnRNAx0j4v35seZE2pgBuUFslYT7LHB44Q2h5lWWU9L3qJjDlIEdUndGs75tRbEsxBQ8ewl6rY5yJEAL4XhhUUml-vtacX69k47WcCDj0zos6UgWjvAA3tbYT9nLp_QC8BYTFEpqga_vsITn_289TjO44ziu1KGo_t69hm9mahBrp_Aa-eq5oEkcWaSdQa297xg7yfqxkvzjIBHOZQqEM65RzAM9T38aVUU-BuOrFxN-IhEDbaS_56aZSjGSABM6nHwM5q5fdvGNQ50tw6WoFY0RoZnaMsevUavvRF5ZFC77FbdSxTE6lcRmVb8e06X8wyoxdXowoGj6s4lHvh73ujb8PWqQUdIKloXQ3DM4yhtY0o-9e3VMGMPi9KQdA0sk2BE9L2kE8qo5JjjPMnUKyTOOgIxhsgN2ncWi_Egwch2nWOo95Bjjg-VsfwNq-piDkW=w1024-h605-no?authuser=1" is-favorite="1",Discovery Science | HD
-http://pascaltv.site:8080/F12611/b199b47b/11081
 
 .............. Haber Kanalları ..................
 
+TRT Haber
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://1.bp.blogspot.com/-ys-yEq5M9d0/YUIjNQZD8EI/AAAAAAAAAl8/ydpsHkP2srYEopO-A9M1QPv59ipTtS4_ACPcBGAsYHg/s320/TRT_Haber_logo.png" is-favorite="1",TRT Haber | HD
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+
 Halk Tv
-#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://lh3.googleusercontent.com/pw/AM-JKLUI674s0jzt89Jf21fHfYbOCUw3yrOCma7zcUgMXNIlGWVMV_8SjiQScY5z_BheGW6AR_iNzLTnnlyUCBK8SbHhEWH7-ViuoP2oMyNXQdc6ANrGSv4KaVSuUaiY4xfFIfPXcAEgd_oaJhBg2kz4EGQ=w368-h150-no?authuser=0",Halk Tv | SD
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://1.bp.blogspot.com/-0M6iZrmHC2o/YUIjNZhqrqI/AAAAAAAAAl8/vg2PNPmIvWkm_Zj7PLV5_bdlQHinbWP0wCPcBGAsYHg/s320/halktvlogo.png",Halk Tv | SD
 https://halktv-live.ercdn.net/halktv/halktv_720p.m3u8%22
 
 KRT Tv
-#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://lh3.googleusercontent.com/pw/AM-JKLV2mpv_Y9BDYU4dMUnz_XM0tHqxwgdSQ2ztsfuh9iTg1KtnzC9KANUMzBO963H4_p4eP8pnXpPT46DxYorD5Pd-6IQSvMm13d6kxLn1lmy_yhdEAFnfTGHgbzjQ89OlC_yipsm3GXtjddx4AzjuNiQ=w206-h120-no?authuser=0",KRT Tv | HD
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://1.bp.blogspot.com/-AcJiQZqLLeU/YUIjNRm0aJI/AAAAAAAAAl8/wA2VIxlv6XIsAijN5qL8vreeWU9NBGFvgCPcBGAsYHg/s320/krttvlogodzlt.png",KRT Tv | HD
 http://live1.krttv.com.tr/show/krttv_mobil/index.m3u8
 
 Haber Türk
-#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://lh3.googleusercontent.com/Hd9YeInM83erpwiCu80J-gyIiQIXDN3SPGSK4_6JLL8KfqOkLdlut92ABD4JfJNXuLfS8daljHUMVzC_DWfDjm_M4Q7S9btbcHkf3Vp3kugBb7Oan1K-rJaHhLZkYQIhkb-ttNOvTzecBMHd4VCCCaChDYWDxnOXQrc4_GZuDgGqgP4si8TYn0nOVBKqdkj-vkkZfXz3vUCZIcWFiPYZ02r8W5J9rboXhLlKCcKwA4Y14UMpR_cqEIhn3ev4vf_TRc0fapS94JIqR79laFLeoajuZ3XUswzkLWzJzaVcqVKa3vDiQ3VD5BoxRb-sLoNOWmf4DvU-2vQlNocD4nMZdDpL98nmIgjMdS_T69b3OV0-iLqnIJXeVqkdI8DVH5aLpdmPBERfHWme9BVxXcnJ3kUJlGkQ1ERDXRTFPR-A8F-bvKX0xI_mUuc6gU-OwTr5h81C-FxWzN2PBR4tGSNRC_oTj0J-p3H3b478TnZR3xVCZdw92syiMDohvYUktrvWIWOUD2NiAGwzbyS706QpdKegSahM-vNd4NMiLrAcVBW-L8PU11dmXPI6ap-DpNXaanFTTEeGJdhqD592WPFYXYJxJCT_eAGFfJMxQjl2MndBjfuTjS1PKSMjScJgVeX_pUl7Vo-y8F5sDXEvTu3dSU650S4p4kxl0V733ryjULv2WiQr5fwPovsrCBMyElJLcpJfvMxIV2ZbCMHUw4SFLHUW=w636-h350-no?authuser=1",Haber Türk | HD
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://1.bp.blogspot.com/-aJJcwvFoLdU/YUIjNZv7jWI/AAAAAAAAAl8/8nzTLIiHmgw10xokfQnlokEl6W-RXEM2wCPcBGAsYHg/s320/habert%25C3%25BCrk%2Blogo.png",Haber Türk | HD
 https://mn-nl.mncdn.com/blutv_haberturk_dvr/live.m3u8
 
 Haber Global
-#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://lh3.googleusercontent.com/g4us5PAK9fsJWsOPKYH792JSM8t8XVveW_DPVSx1ThuSo42kuHU7EOhSULWQqu17pAWH5YkZQzxKLn6pNQRHd7fKR6kuaO43fVWqwCHegQgsUXLvhzI8dlH4xYnc6lLCSoCQDzQfmTFXeiojAE4J0T425POUHFhnwW2nHf09QjRuQgxSLsl0cnvzGJCP6RAL6e5sy0fG6ZEGd1iDuzkZGi3EQYP-UQy7m3-dqyUPy60PAfMxGx-VGgAFUZ4Bdns7X20ekxADvYCWIvt2C64C3_srlLV9TPPfxmZheE2e3fF6r2Ii13FbY8T3eTfuVPeikqbngLyMqKDasU8WZ6QbcoVUPMyBqpdZNG3XsIzSpC1T5BGL_N0B0XPajKHdIFZyRFQGUwYj4lbwnjQ7GBDCHeaiMkxsqkJqoZgNSORcP0fbyfKPB1fcEEs61CYqJ51AlHnq7sN_WR-37J1_l_U_Jxloh9VPvRaLPaTa_mDClFTet5y1ZM6P0gj9LJ-ENldZbnObpgBcb-0tBJxEb2M9OdT-5WnokaIHAoxJccf9aXxa8t_BH-8E5iLchTxr0Qv0UOlMeIdQGxp9ZmxSZnkYHsNDGvzzhjO-rvsGhUn9cH8SRgBK7GBgwa6EBTNcP6wYlnhsGmebSlAqbcdVcp7bc6lCSKHRtojDGeldN8aUhb2c9qa7lzk1QUZ_zJQlkZPCi_ua5h02ymQA3MKMrvLEGL83=w436-h84-no?authuser=1",Haber Global | SD
-https://stream-04.ix7.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSprhmsgBwFQBkadrBhYYXf_0)/dm/3/x81x3cd/s/live-2.m3u8
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://1.bp.blogspot.com/-hxK5JtRk0Yg/YUIjNd8D1NI/AAAAAAAAAl8/iXOrkeibxFowIgCFpS7PTOAVJey-ZxfnQCPcBGAsYHg/s320/Haber_Global_logosu.png",Haber Global | SD
+https://www.dailymotion.com/cdn/live/video/x81x3cd.m3u8?sec=U1nmHcFXsOmW8YgxezmYX3zRiGEoASkBDqzLy_jqxSP-ygC4YtskAw94-rr5lDTAyzSRZ92wj_rqv8s7bm2eqw
+
+TGRT Haber
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://1.bp.blogspot.com/-VU_JE71-1w4/YUIjNcNAdoI/AAAAAAAAAl8/jkzPwTvP9iMqE6AkdcPIEUuKyX_kVCQpACPcBGAsYHg/s0/TGRT_Haber_logosu.png" is-favorite="1",TGRT Haber | HD
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/chunklist_b600000.m3u8
 
 NTV
-#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://lh3.googleusercontent.com/Wiku9_nxvnttq74707RyqZ8KaZDT0QteD4NdhWcxgK_j8ax7SveD1367l9kJklrewTtAIKaOQR2Itn9Q2IsMWyVWwYI4YyStnCEuWHuGSxZzEiCnHiZ2HRIjGyzCt2meHhYR2RlCT1mELtE4wAj6oxjYP8bjvRqxISB_S900g8bD2O7Qev7V0gtQMtLwd7Ifox1zfLf09Po5dp-lrRv6_Mke5o3sGpY-51esMzie7Tj49Stps7lTzHBZVFEHlGxtEJ0nfMQaaV2FbDXi_2FA4Oky2_q6CGbRMjoiHu_pbSjIF6uTXGOtd7p87FpYmRcwgE33Dsc7nSnEsl8ExAnuHMl0GXJI83QMXjCFgj40KOdiH3QVh_ZZnAmQ1cvx8jCsx2lsOh0VCrhA0LojjGhkgHoc0S8DS3_dUS_IwuG5E1NwpRSyCzMwWQmDLy_HAyZNtlrqjF_zXokjbymASv3OwTPoI310k3oj3-9x7rzkt6FbcicoKILHxcJ2N5q914cjyOgVrQ4WDiUmQyuEQjA0lldbC7tSejfT2dLU3H5QsliENiQ2fl6g98rgrzMdStZdt2Ff0YDdZp5JqxSeEYBySoq53y0JpvCvah219W431MORB_0EU4wdD1s68ZFUwLP_pz81CxHfB_-mOhlonVDozdteEvjSkpw5fKTjzFL4tpULbxiCXvef60SdtDn5itijyckDCS6PJeanKjYELeAePyY8=w1191-h447-no?authuser=1",NTV | SD
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://1.bp.blogspot.com/-iF31beVmfos/YUIjNUBAGzI/AAAAAAAAAl8/OdOLXWVJQ6EwBbdKUlKdiu4E8eY4XksbQCPcBGAsYHg/s320/NTV_logosu.png",NTV | SD
 https://dogus.daioncdn.net/ntv/ntv_576p.m3u8?sid=3n4355s7j3nl&app=c68bddbe-3dbf-49f7-892a-93de5ae37f1f&ce=3
 
 CNN Türk
-#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://lh3.googleusercontent.com/pw/AM-JKLU_TuntZhUkVr_jZ1pARjuWvciLCNzwWxhGdqoORwRPbCvjcFcRU_tOC3VOOctRPgM9VE_Sngchap2RdAbBLEto6HyjC0T1bohXH7ktHGY5ZLXiMO48l86cWSxzDifXupVTX3dxSnnTPcmO0hckm4yR=w299-h238-no?authuser=1",CNN Türk | HD
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://1.bp.blogspot.com/-omCK_BaxdtQ/YUIjNVzXxZI/AAAAAAAAAl8/C9EstGCSbUUUQYNM-eiiKcc3sWK5-RDyACPcBGAsYHg/s0/2560px-CNN_T%25C3%25BCrk_logo.svg.png",CNN Türk | HD
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
 
-Radio
-Aksaray FM
-#EXTINF:-1 group-title="Radyo" tvg-logo="http://www.radyosfer.com/ImageHandler.ashx?roll_no=884",Aksaray FM | TR
+................ Radio ................
+Radio Tempo Manisa
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://1.bp.blogspot.com/-PAi39RZSyFw/YUIjNaHd0BI/AAAAAAAAAl8/LtMkaxGk-Y46juoj93j8m_DcWyGDQBZaQCPcBGAsYHg/s0/radyotempo%2Bayd%25C4%25B1n%2Bdzlt.png",Radio Tempo Manisa | TR
 https://ssl.radyosfer.com:7016/;
+
+Radio Tempo Aydın
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://1.bp.blogspot.com/-JAQNZIBWCvQ/YUIjNdTfMqI/AAAAAAAAAl8/b60q4oi9x8co6VUOwi7Y2K45hWH2VXH5wCPcBGAsYHg/s320/radyotempo%2Bmanisa%2Bdzlt.png",Radio Tempo Manisa | TR
+https://ssl.radyosfer.com:7052/;/stream?icy=http
+
+Aksaray FM
+#EXTINF:-1 group-title="Radyo" tvg-logo="https://1.bp.blogspot.com/-dRWspiijYtQ/YUIjNUeZtqI/AAAAAAAAAl8/Oy6MjLndW8g6tQexKj0T6Q_4KHI4JiYSACPcBGAsYHg/s0/aksarayfmdzlt.png",Aksaray FM | TR
+https://ssl.radyosfer.com:7012/;/stream?icy=http
 
 ... Filmler ...
 Bir Eksik
