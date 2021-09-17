@@ -92,7 +92,8 @@ Aksaray FM
 https://ssl.radyosfer.com:7012/;/stream?icy=http
 
 ... Filmler ...
-#EXTINF:-1 group-title="Filmler" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDYwMmExN2MtYTBlMS00OWU4LWFmMGItMTdlYWRjN2NhYjY5XkEyXkFqcGdeQXVyMTYzMDkwNjg@._V1_.jpg",Filmler | FHD | Türkçe Dublaj
+#EXTM3U
+#EXTINF:-1,WXXI-AM Public Radio Stream
 https://raw.githubusercontent.com/ipsvrtm/iptv/main/movie.m3u
 
 Belgeseller
