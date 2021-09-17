@@ -93,7 +93,6 @@ https://ssl.radyosfer.com:7012/;/stream?icy=http
 
 ... Filmler ...
 #EXTM3U
-#EXTINF:-1,WXXI-AM Public Radio Stream
 https://raw.githubusercontent.com/ipsvrtm/iptv/main/movie.m3u
 
 Belgeseller
