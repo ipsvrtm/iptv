@@ -14,7 +14,7 @@ https://vobook.ru:8080/https://mn-nl.mncdn.com/blutv_kanald_dvr/live_720p2000000
 
 Atv
 #EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://1.bp.blogspot.com/-HhOKM4sBAyg/YUIjNf4NAzI/AAAAAAAAAl8/5rKBaWzQ-bobJswaUzKvloZuRR3vSPf7wCPcBGAsYHg/s0/atv-logo.png" is-favorite="1",ATV | HD
-https://trkvz-live.ercdn.net/atvhd/atvhd_720p.m3u8?st=9ap9iD34Q92nK9KWwK97eg&e=1631846849&SessionID=1.3.7549671.1631731167&StreamGroup=canli-yayin&Site=atv&DeviceGroup=web
+https://diss.tvizlehd.com/atv720.m3u8?tkn=twkRjc7aiiIruXK48gbC2A&tms=1631892305&hst=www.canlitv.page
 
 Show Tv
 #EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://1.bp.blogspot.com/-SqJWfXtwMcA/YUIjNRJoacI/AAAAAAAAAl8/hG_HMycXZ90tefOGRvJo29-3-hkMUFPXgCPcBGAsYHg/s0/Logo_of_Show_TV.png" is-favorite="1",Show Tv | HD
@@ -92,19 +92,8 @@ Aksaray FM
 https://ssl.radyosfer.com:7012/;/stream?icy=http
 
 ... Filmler ...
-Bir Eksik
-#EXTINF:-1 group-title="Filmler" tvg-logo="https://img01.imgsinemalar.com/images/afis_dev/b/bir-eksik-1620743556.jpg",Bir Eksik | FHD | Türkçe Dublaj
-https://srv30.filmmodu.xyz/tt4733624/1080p.tr.m3u8
-
-KARANLIKTAN GELEN
-#EXTINF:-1 group-title="Filmler" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDYwMmExN2MtYTBlMS00OWU4LWFmMGItMTdlYWRjN2NhYjY5XkEyXkFqcGdeQXVyMTYzMDkwNjg@._V1_.jpg",Karanlıktan Gelen | FHD | Türkçe Dublaj
-https://s13-3.simplexml.in/ustore_content/480-b9ad5c73db32cc6b62afa6467005ad27.mp4/index.m3u8?md5=U6slansYMv7bzGLCnxlA4w&expires=1629762451
-
-Flight - Uçuş
-#EXTINF:-1 group-title="Filmler" tvg-logo="https://tr.web.img4.acsta.net/c_310_420/medias/nmedia/18/91/15/84/20347421.jpg",Flight - Uçuş (2012) | FHD | Türkçe Altyazılı
-https://www228.ff-01.com/token=LU_iGvPJ_iL9D2HC4Sspbg/1628216079/95.15.0.0/82/1/d4/d639d1b3cbe864d343feab9769b87d41-1080p.mp4
-#EXTINF:-1 group-title="Filmler" tvg-logo="https://tr.web.img4.acsta.net/c_310_420/medias/nmedia/18/91/15/84/20347421.jpg",Flight - Uçuş (2012) | FHD | Türkçe Dublaj
-https://srv58.filmmodu.xyz/tt1907668/1080p.tr.m3u8
+#EXTINF:-1 group-title="Filmler" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDYwMmExN2MtYTBlMS00OWU4LWFmMGItMTdlYWRjN2NhYjY5XkEyXkFqcGdeQXVyMTYzMDkwNjg@._V1_.jpg",Filmler | FHD | Türkçe Dublaj
+https://raw.githubusercontent.com/ipsvrtm/iptv/main/movie.m3u
 
 Belgeseller
 Joel Lambert: Fukuşima Felaketi
