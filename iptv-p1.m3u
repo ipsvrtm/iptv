@@ -14,11 +14,11 @@ https://vobook.ru:8080/https://mn-nl.mncdn.com/blutv_kanald_dvr/live_720p2000000
 
 Atv
 #EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://1.bp.blogspot.com/-HhOKM4sBAyg/YUIjNf4NAzI/AAAAAAAAAl8/5rKBaWzQ-bobJswaUzKvloZuRR3vSPf7wCPcBGAsYHg/s0/atv-logo.png" is-favorite="1",ATV | HD
-https://ankara.tvizlehd.com/atv720.m3u8?tkn=jL5Cowtc1XwAs8h5s1yy-A&tms=1632078687&hst=www.canlitv.me
+https://ankara.tvizlehd.com/atv720.m3u8?tkn=TdaRtFf8jm40apg4fWeQ1A&tms=1632095957&hst=www.canlitv.today
 
 Show Tv
 #EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://1.bp.blogspot.com/-SqJWfXtwMcA/YUIjNRJoacI/AAAAAAAAAl8/hG_HMycXZ90tefOGRvJo29-3-hkMUFPXgCPcBGAsYHg/s0/Logo_of_Show_TV.png" is-favorite="1",Show Tv | HD
-https://vobook.ru:8080/https://mn-nl.mncdn.com/blutv_showtv_dvr/live_720p2000000/index.m3u8
+https://ciner-live.ercdn.net/showturk/showturk_720p.m3u8?e=1632088565&st=rItrA1e8EeMlCZxzuyVkHA&tv=1
 
 Teve2
 #EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://1.bp.blogspot.com/-l9bvgYciTm0/YUSHgq9nolI/AAAAAAAAAns/nIc4iCmITZkapaOqF3b1fl8OH2hRB3s8QCPcBGAsYHg/s0/Teve2_logo.png" is-favorite="1",Teve2 | HD
@@ -26,7 +26,7 @@ https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_3_750/playlist.m3u8
 
 Beyaz TV
 #EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://1.bp.blogspot.com/-AhyiMJ0yAJQ/YUIjNSs2BlI/AAAAAAAAAl8/vH9qS4XFwQQGZ_VQKEKrHGmwPgWHj1xtgCPcBGAsYHg/s0/beyaz-tv.png" is-favorite="1",Beyaz Tv | HD
-https://live.livestreamlive.xyz/beyaz.m3u8?anahtar=ffh8ZII7wdS0FhNieN5jiA&sure=1632085674&ip=94.236.138.240
+https://59c7ea6bec1c6.streamlock.net/live/beyaztv.stream/chunklist_w945995422.m3u8?hash=c25cbc8f5d5261eaa6a56d9cd8f47a23
 
 Kanal 7
 #EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://1.bp.blogspot.com/-_UvsbvVmlpU/YUIsfZ6NoQI/AAAAAAAAAmw/8CBGf6OoGKMuR7IsHCB7sdxwm7ajC2gsgCPcBGAsYHg/s0/kanal7pngegg.png" is-favorite="1",Kanal 7 | HD
@@ -34,7 +34,7 @@ https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
 
 TV8
 #EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://1.bp.blogspot.com/-JGxpZKIJJSw/YUIjNXCrmkI/AAAAAAAAAl8/3vIoA7YrMWcMH5qOMy25VcoIQjU_K3jJgCPcBGAsYHg/s0/Tv8_Yeni_Logo.png" is-favorite="1",Tv8 | HD
-https://live.livestreamlive.xyz/tv8.m3u8?anahtar=QYneSZVs6QbJyeeNH-PJLw&sure=1632085610&ip=94.236.138.240
+https://59c7ea6bec1c6.streamlock.net/live/tv8.stream/chunklist_w175484082.m3u8?hash=c25cbc8f5d5261eaa6a56d9cd8f47a23
 
 TRT1
 #EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://1.bp.blogspot.com/-j6hbrqdSrjk/YUIjNTpf3mI/AAAAAAAAAl8/q1-Ge-DmpOo6IWFTrSQQrcQeWkw3n-CLACPcBGAsYHg/s320/TRT_1_logo_%25282012-2021%2529.png" is-favorite="1",TRT1 | HD
