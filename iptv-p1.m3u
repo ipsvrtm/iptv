@@ -2,7 +2,7 @@
 
 Fox Tv
 #EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://1.bp.blogspot.com/-pk8d_HoLNGE/YUIjNakouwI/AAAAAAAAAl8/6PuwRHJhPqENC16FoCfjZ-CwCmvJQTk6ACPcBGAsYHg/s0/fox-turkiye-logo.png" is-favorite="1",Fox Tv | SD
-https://vobook.ru:8080/https://mn-nl.mncdn.com/blutv_foxtv_dvr/live_720p2000000/index.m3u8
+https://foxtv-live-ad.ercdn.net/foxtv/playlist.m3u8?st=zPlMkxqrEo3Owkayogh_DQ&e=1632121974
 
 Star Tv
 #EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://1.bp.blogspot.com/--6FblH7L_AU/YUIjNa7LOoI/AAAAAAAAAl8/yFpgnyYk3EID6GPyUGxQd1lJJG3tPXADACPcBGAsYHg/s0/startvlogo.png" is-favorite="1",Star Tv | HD
@@ -14,11 +14,11 @@ https://vobook.ru:8080/https://mn-nl.mncdn.com/blutv_kanald_dvr/live_720p2000000
 
 Atv
 #EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://1.bp.blogspot.com/-HhOKM4sBAyg/YUIjNf4NAzI/AAAAAAAAAl8/5rKBaWzQ-bobJswaUzKvloZuRR3vSPf7wCPcBGAsYHg/s0/atv-logo.png" is-favorite="1",ATV | HD
-https://ankara.tvizlehd.com/atv720.m3u8?tkn=TdaRtFf8jm40apg4fWeQ1A&tms=1632095957&hst=www.canlitv.today
+https://trkvz-live.ercdn.net/atvhd/atvhd.m3u8?st=SjaiBsNYfKcvoBZ6ut7OOA&e=1632160317&SessionID=1.3.1796660092.1632115113&StreamGroup=canli-yayin&Site=atv&DeviceGroup=web
 
 Show Tv
 #EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://1.bp.blogspot.com/-SqJWfXtwMcA/YUIjNRJoacI/AAAAAAAAAl8/hG_HMycXZ90tefOGRvJo29-3-hkMUFPXgCPcBGAsYHg/s0/Logo_of_Show_TV.png" is-favorite="1",Show Tv | HD
-https://ciner-live.ercdn.net/showturk/showturk_720p.m3u8?e=1632088565&st=rItrA1e8EeMlCZxzuyVkHA&tv=1
+https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8
 
 Teve2
 #EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://1.bp.blogspot.com/-l9bvgYciTm0/YUSHgq9nolI/AAAAAAAAAns/nIc4iCmITZkapaOqF3b1fl8OH2hRB3s8QCPcBGAsYHg/s0/Teve2_logo.png" is-favorite="1",Teve2 | HD
@@ -72,7 +72,7 @@ https://mn-nl.mncdn.com/blutv_haberturk_dvr/live.m3u8
 
 Haber Global
 #EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://1.bp.blogspot.com/-hxK5JtRk0Yg/YUIjNd8D1NI/AAAAAAAAAl8/iXOrkeibxFowIgCFpS7PTOAVJey-ZxfnQCPcBGAsYHg/s320/Haber_Global_logosu.png",Haber Global | SD
-https://59c7ea6bec1c6.streamlock.net/live/haberglobal.stream/chunklist_w459114980.m3u8?hash=acb4de4ed0059485d7330d486f28082f
+https://mn-nl.mncdn.com/blutv_haberglobal_dvr/live.m3u8
 
 TGRT Haber
 #EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://1.bp.blogspot.com/-VU_JE71-1w4/YUIjNcNAdoI/AAAAAAAAAl8/jkzPwTvP9iMqE6AkdcPIEUuKyX_kVCQpACPcBGAsYHg/s0/TGRT_Haber_logosu.png" is-favorite="1",TGRT Haber | HD
